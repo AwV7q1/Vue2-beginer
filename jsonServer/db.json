@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Gương trang điểm 2 mặt để bàn xinh xắn xoay 360 độ nhiều mẫu",
+            "image": "https://cf.shopee.vn/file/6c91dffec89479119227eeede9e3573b",
+            "description": "Vật trang trí đẹp mắt giúp tôn lên vẻ chuyên nghiệp và sang trọng nơi bàn trang điểm của bạn. Đây còn là một món quà thích hợp tặng bạn bè, người thân trong những dịp đặc biệt.",
+            "price": "45.000"
+        },
+        {
+            "id": 2,
+            "title": "Tai nghe không dây Bluetooth TWS AMoi F9 Pro - Chống nước IP67 - Pin 2000maH - Dùng 600 tiếng",
+            "image": "https://cf.shopee.vn/file/1533b91dd2ce4b7befa8b9ff140d6b30",
+            "description": "ai nghe Bluetooth Amoi F9 Pro - Modem nâng cấp của Phiên bản Amoi F9 tiền nhiệm được nhập khẩu và phân phối đến từ thương hiệu SMART NEW",
+            "price": "101.000"
+        },
+        {
+            "id": 3,
+            "title": "Quạt Tản Nhiệt - Fan Led RGB Cắm nguồn trực tiếp không qua HUB WM Star V8 S2 33 Bóng",
+            "image": "https://cf.shopee.vn/file/117f6cc523f08fd1dcf271fe66020a65",
+            "description": "Ngoài việc tản khí cho cpu còn là phụ kiện trang trí chp case cpu của bạn thêm đẹp hơn, trông bắt mắt , sành điệu hơn",
+            "price": "40.000"
+        },
+        {
+            "id": 4,
+            "title": "Miếng dán màn hình HD cho Macbook",
+            "image": "https://cf.shopee.vn/file/87d9ed3e99eccb7ea8a0e2f220269938",
+            "description": "Miếng dán từ HD giúp chống xước và bụi bẩn màn hình cho Mácbook của bạn",
+            "price": "50.000"
+        }
+    ]
+  }
